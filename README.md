@@ -1,4 +1,4 @@
-# Traffic-Sign-Classification-Keras
+# Traffic Sign Classification Using Deep Learning in Python/Keras
 Traffic signs(GTSRB) classification with a convolutional network (keras and python)
 ## Problem Statement and Goal of the Project
 The German Traffic Sign Benchmark is a multi-class, single-image classification challenge held at the International Joint Conference on Neural Networks (IJCNN) 2011.
